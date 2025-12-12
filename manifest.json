@@ -1,0 +1,19 @@
+{
+    "name": "Gates of Olympus Super Scatter \u2013 Play & Win Big Today | Slot Game",
+    "short_name": "Gates of Olympus Super Scatter",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Gates of Olympus Super Scatter \u2013 discover legal gameplay in Australia and start spinning for epic rewards | scatter slot action play now for excitement.",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
